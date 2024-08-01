@@ -1,1 +1,1 @@
-# End to end Face Recognition project
+# Face Recognition and Attendance Project
